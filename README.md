@@ -24,7 +24,7 @@
 
 ## Screenshot of Text message
 
-<img src="https://github.com/moe399/LibrarySpaceBooker/screenshotTwillio.jpg" width="e00" height="300">
+<img src="https://github.com/moe399/LibrarySpaceBooker/blob/main/screenshotTwillio.jpg" width="e00" height="300">
 
 
 
